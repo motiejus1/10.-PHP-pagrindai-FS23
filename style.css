@@ -1,0 +1,22 @@
+.zaidimas {
+    display:flex;
+    flex-wrap: wrap;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.kvadratelis {
+    background-color:blue;
+    border: 1px solid black;
+    width: 30%;
+    height: 300px;
+    margin:5px;
+}
+
+.geltona {
+    background-color: yellow;
+}
+
+.raudona {
+    background-color: red;
+}
